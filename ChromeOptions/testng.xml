@@ -1,0 +1,15 @@
+
+
+<suite name="POM Excel Suite"> 
+
+  <test name="Login Excel Tests"> 
+
+    <classes> 
+
+      <class name="com.training.pomdemo.tests.LoginTest"/> 
+
+    </classes> 
+
+  </test> 
+
+</suite> 
